@@ -14,6 +14,7 @@ Coleção de jogos simples em Python com interface gráfica (Tkinter).
 - [x] Jogo da Cobrinha (`jogo_da_cobrinha.py`)
 - [x] 2048 (`jogo_2048.py`)
 - [x] Conecta 4 (`conecta_4.py`)
+- [x] Batalha Naval (`batalha_naval.py`)
 
 ## Como jogar
 
