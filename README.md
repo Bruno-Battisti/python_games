@@ -12,6 +12,7 @@ Coleção de jogos simples em Python com interface gráfica (Tkinter).
 - [x] Campo Minado (`campo_minado.py`)
 - [x] Quiz (`quiz.py`)
 - [x] Jogo da Cobrinha (`jogo_da_cobrinha.py`)
+- [x] 2048 (`jogo_2048.py`)
 
 ## Como jogar
 
